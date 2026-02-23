@@ -1,5 +1,4 @@
 # JAVA-PROGRAM-TO-PRINT-ODD-AND-EVEN-NUMBERS-IN-AN-ARRAY-
-
 ## AIM:
 To print odd and even numbers using Java programming language.
 ## APPARATUS REQUIRED:
